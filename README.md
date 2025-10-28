@@ -17,13 +17,9 @@ It provides insights into ticket volume, priority distribution, closed tickets, 
 4. **Customer Satisfaction Rate (Gauge Visual)**:
     ![Gauge](Gauge.png)
    Displays the satisfaction rate (%) of service desk users.
- 
-##  Screenshots
-See the `Screenshots/` folder for visual representation of each chart.
 
 ##  Files
 - `Tickest.pbix` → Power BI project file
-- `Screenshots/` → Folder containing images of each visual
 
 ##  Tools Used
 - Power BI Desktop
